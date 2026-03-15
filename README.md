@@ -29,3 +29,6 @@ Some insights from the dataset:
 
 ## Dataset
 Netflix dataset used for analysis.
+
+
+## Project link : https://github.com/arkadhol13-droid/Netflix-Data-Analysis/blob/main/Netflix_Data_Analysis/Notebook/Netflix.ipynb
